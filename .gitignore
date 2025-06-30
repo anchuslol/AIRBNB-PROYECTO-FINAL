@@ -1,0 +1,18 @@
+# Ignorar datos pesados y archivos temporales
+Data/raw/
+*.csv
+*.gz
+
+# Notebooks temporales
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Entorno virtual
+venv/
+
+# Archivos ZIP u otros binarios
+*.zip
+*.tar
